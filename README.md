@@ -1,18 +1,25 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A Chilean dev who loves technology, blockchain and nature... I'm focused on Full Stack Development working mainly with React and Nodejs. Open to new job offers.</h3>
+<h1 align="center">Hi 👋, I'm Lucas</h1></br>
+<div><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="355px" />
+<h3 align="center">A Chilean dev who loves technology, blockchain and nature... I'm focused on Full Stack Development working mainly with React and Nodejs.</h3> <h3 align="center">Open to new job offers.</h3></div>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="align:right;max-width:150px" />
+</br>
+</br>
 
 
-- This is my portfolio where you can see all my work and contact me. [Portfolio](https://portfolio-lucas-andrews.vercel.app/)
+
+<a href="https://github.com/landrews852/Portfolio-Lucas-Andrews" target="_blank" rel="noopener noreferrer"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=landrews852&repo=Portfolio-Lucas-Andrews&theme=dracula" alt="portfolio"></a>
+
+- This is my portfolio where you can see some of my work and contact me. [Portfolio](https://portfolio-lucas-andrews.vercel.app/)
 
 - Single-page Application carry out with SCRUM methodology in 3 weeks by a team of Full Stack Devs using React.js, Redux, Node.js, Express, Postgres, Bootstrap, Auth0, MercadoPago and more. Some of the features include: checkout, cart, payment, shipping, schedule appointments and more. [Beautify E-commerce](https://beautify-three.vercel.app/)
 
 - Development of a SPA (Single Page Application) using React for the Front End and Redux as store management. Every component was develop with CSS without using external libraries. The SPA consume data from 'Rawg' API through a Back End developed in Node.JS using Express, adding new functionalities to the original API. Some features of the project: Searching, sorts and filters, controlled form for the creation of new video games, among other things. **Videogames app**
 
+<h3>📫 How to reach me</h3>
+
 - Portfolio [https://portfolio-lucas-andrews.vercel.app/](https://portfolio-lucas-andrews.vercel.app/)
 
-- 📫 How to reach me **andrews852@gmail.com**
+- Email **andrews852@gmail.com**
 
 - CV / RESUME [https://portfolio-lucas-andrews.vercel.app/Docs/Lucas_Andrews_CV_ENG.pdf](https://portfolio-lucas-andrews.vercel.app/Docs/Lucas_Andrews_CV_ENG.pdf)
 
@@ -27,6 +34,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=landrews852&label=Profile%20views&color=0e75b6&style=flat" alt="landrews852" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=landrews852&show_icons=true&locale=en&layout=compact" alt="landrews852" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=landrews852&show_icons=true&locale=en" alt="landrews852" /></p>
 
