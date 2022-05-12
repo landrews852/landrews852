@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1></br>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="355px" align="right" /><h1 align="center">Hi 👋, I'm Lucas</h1></br>
 
-<div ><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="355px" align="right" />
+<div >
 
 <h2 align="center">A Chilean dev who loves technology, blockchain and nature... I'm focused on Full Stack Development working mainly with React and Nodejs.
-</br></br>
+  
+</br>
+</br>
+
 Open to new job offers.
+</h2>
+
 </div>
 
 </br>
@@ -36,7 +41,7 @@ Open to new job offers.
 <div align="center">
 <p align=""> <img src="https://komarev.com/ghpvc/?username=landrews852&label=Profile%20views&color=0e75b6&style=flat" alt="landrews852" /> </p>
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landrews852&layout=compact&bg_color=000000&title_color=f5f5f5&text_color=f5f5f5" alt="landrews852" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landrews852&layout=compact&bg_color=101010&title_color=f5f5f5&text_color=f5f5f5" alt="landrews852" /></p>
 
 </div>
 <hr>
