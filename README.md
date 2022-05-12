@@ -17,17 +17,18 @@ Open to new job offers.
 
 <h3>📫 How to reach me</h3>
 
-- Portfolio [https://portfolio-lucas-andrews.vercel.app/](https://portfolio-lucas-andrews.vercel.app/)
+- Portfolio **https://portfolio-lucas-andrews.vercel.app/**
 
 - Email **andrews852@gmail.com**
 
-- CV / RESUME [https://portfolio-lucas-andrews.vercel.app/Docs/Lucas_Andrews_CV_ENG.pdf](https://portfolio-lucas-andrews.vercel.app/Docs/Lucas_Andrews_CV_ENG.pdf)
+- CV / RESUME <a href="https://portfolio-lucas-andrews.vercel.app/Docs/Lucas_Andrews_CV_ENG.pdf" target="_blank" rel="noreferrer">Lucas_Andrews_CV_ENG.pdf<a/>
+<a><a/>
 </br>
 </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/landrewsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="landrewsl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/landrewsl" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="landrewsl" height="30" width="40" /></a>
 </p>
 
 </br>
