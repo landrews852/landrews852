@@ -17,11 +17,11 @@ Open to new job offers.
 
 <h3>📫 How to reach me</h3>
 
-- Portfolio **https://portfolio-lucas-andrews.vercel.app/**
+- Portfolio: **https://portfolio-lucas-andrews.vercel.app/**
 
-- Email **andrews852@gmail.com**
+- Email: **andrews852@gmail.com**
 
-- CV / RESUME <a href="https://portfolio-lucas-andrews.vercel.app/Docs/Lucas_Andrews_CV_ENG.pdf" target="blank" rel="noreferrer">Lucas_Andrews_CV_ENG.pdf<a/>
+- CV / RESUME: <a href="https://portfolio-lucas-andrews.vercel.app/Docs/Lucas_Andrews_CV_ENG.pdf" target="blank" rel="noreferrer">**Lucas_Andrews_CV_ENG.pdf**<a/>
 <a><a/>
 </br>
 </br>
