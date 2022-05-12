@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A Chilean dev who loves technology, blockchain and nature... I'm focused on Full Stack Development working mainly with React and Nodejs. Open to new job offers.</h3>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style={ align: "right", max-width: "150px" } />
 
 
 - This is my portfolio where you can see all my work and contact me. [Portfolio](https://portfolio-lucas-andrews.vercel.app/)
