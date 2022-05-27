@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="355px" align="right" /><h1 align="center">Hi 👋, I'm Lucas</h1></br>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="355px" align="center" /><h1 align="center">Hi 👋, I'm Lucas</h1></br>
 
 <div >
 
