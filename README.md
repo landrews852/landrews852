@@ -86,7 +86,7 @@ Single-page Application carry out with SCRUM methodology in 3 weeks by a team of
 
 <div align='center'>
 <p>
-<a href="https://github.com/landrews852/PI-Videogames" target="_blank" rel="noopener noreferrer"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=landrews852&repo=PI-Videogames&bg_color=0.25turn,3f87a6,ebf8e1,f69d3c&title_color=6b1111&text_color=000000&show_icons=false" alt="Videogames app" /></a>
+<a href="https://github.com/landrews852/PI-Videogames" target="_blank" rel="noopener noreferrer"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=landrews852&repo=PI-Videogames&bg_color=0.25turn,3f87a6,ebf8e1,f69d3c&show_icons=false&title_color=6b1111&text_color=000000" alt="Videogames app" /></a>
   
 Development of a SPA (Single Page Application) using React for the Front End and Redux as store management. Every component was develop with CSS without using external libraries. The SPA consume data from 'Rawg' API through a Back End developed in Node.JS using Express, adding new functionalities to the original API. Some features of the project: Searching, sorts and filters, controlled form for the creation of new video games, among other things.
 </p>
