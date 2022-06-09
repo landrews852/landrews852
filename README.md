@@ -64,30 +64,42 @@ My projects
 
 <div align='center'>
 <p>
+<a href="https://github.com/landrews852/Numbers-Shop" target="_blank" rel="noopener noreferrer"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=landrews852&repo=Numbers-Shop&bg_color=0.25turn,3f87a6,ebf8e1,f69d3c&title_color=6b1111&text_color=000000&show_icons=false" alt="Videogames app" /></a>
+  
+Shopping cart from scratch. You can save your actual shopping cart in DB and load any saved cart.
+</p>
+<p>
+Made with PERN stack using Redux and Material UI.
+</p>
+</div>
+
+<hr>
+
+<div align='center'>
+<p>
+<a href="https://github.com/landrews852/PG-2-Beautify" target="_blank" rel="noopener noreferrer"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=landrews852&repo=PG-2-Beautify&bg_color=0.25turn,3f87a6,ebf8e1,f69d3c&title_color=6b1111&text_color=000000&show_icons=false" alt="Beautify"></a>
+
+Single-page Application carry out with SCRUM methodology in 3 weeks by a team of Full Stack Devs using React.js, Redux, Node.js, Express, Postgres, Bootstrap, Auth0, MercadoPago and more. Some of the features include: checkout, cart, payment, shipping, schedule appointments and more. [Beautify E-commerce](https://beautify-three.vercel.app/)
+</p>
+
+<hr>
+
+<div align='center'>
+<p>
+<a href="https://github.com/landrews852/PI-Videogames" target="_blank" rel="noopener noreferrer"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=landrews852&repo=PI-Videogames&bg_color=0.25turn,3f87a6,ebf8e1,f69d3c&title_color=6b1111&text_color=000000&show_icons=false" alt="Videogames app" /></a>
+  
+Development of a SPA (Single Page Application) using React for the Front End and Redux as store management. Every component was develop with CSS without using external libraries. The SPA consume data from 'Rawg' API through a Back End developed in Node.JS using Express, adding new functionalities to the original API. Some features of the project: Searching, sorts and filters, controlled form for the creation of new video games, among other things.
+</p>
+</div>
+
+<hr>
+
+<div align='center'>
+<p>
 <a href="https://github.com/landrews852/Portfolio-Lucas-Andrews" target="_blank" rel="noopener noreferrer" ><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=landrews852&repo=Portfolio-Lucas-Andrews&bg_color=0.25turn,3f87a6,ebf8e1,f69d3c&title_color=6b1111&text_color=000000&show_icons=false" alt="portfolio" align="center"></a>
 </br>
 
 This is my portfolio where you can see some of my work and contact me. [Portfolio](https://portfolio-lucas-andrews.vercel.app/)
 </p>
 </div>
-
-<hr>
-</br>
-<div align='center'>
-<p>
-<a href="https://github.com/landrews852/Portfolio-Lucas-Andrews" target="_blank" rel="noopener noreferrer"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=landrews852&repo=PG-2-Beautify&bg_color=0.25turn,3f87a6,ebf8e1,f69d3c&title_color=6b1111&text_color=000000&show_icons=false" alt="Beautify"></a>
-
-Single-page Application carry out with SCRUM methodology in 3 weeks by a team of Full Stack Devs using React.js, Redux, Node.js, Express, Postgres, Bootstrap, Auth0, MercadoPago and more. Some of the features include: checkout, cart, payment, shipping, schedule appointments and more. [Beautify E-commerce](https://beautify-three.vercel.app/)
-</p>
-
-</br>
-<hr>
-</br>
-<div align='center'>
-<p>
-<a href="https://github.com/landrews852/Portfolio-Lucas-Andrews" target="_blank" rel="noopener noreferrer"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=landrews852&repo=PI-Videogames&bg_color=0.25turn,3f87a6,ebf8e1,f69d3c&title_color=6b1111&text_color=000000&show_icons=false" alt="Videogames app" /></a>
   
-Development of a SPA (Single Page Application) using React for the Front End and Redux as store management. Every component was develop with CSS without using external libraries. The SPA consume data from 'Rawg' API through a Back End developed in Node.JS using Express, adding new functionalities to the original API. Some features of the project: Searching, sorts and filters, controlled form for the creation of new video games, among other things.
-</p>
-</div>
-
