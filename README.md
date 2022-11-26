@@ -26,7 +26,7 @@ Open to new job offers.
 
 <h3>📫 How to reach me</h3>
 
-- CV / RESUME: <a href="https://portfolio-lucas-andrews.vercel.app/Docs/Lucas_Andrews_CV_ENG.pdf" target="blank" rel="noreferrer">**Lucas_Andrews_CV_ENG.pdf**<a/>
+- CV / RESUME: <a href="https://landrews.dev/Docs/Lucas_Andrews_CV_ENG.pdf" target="blank" rel="noreferrer">**Lucas_Andrews_CV_ENG.pdf**<a/>
 
 - Portfolio: **https://portfolio-lucas-andrews.vercel.app/**
 
