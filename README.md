@@ -8,16 +8,17 @@
   
 <div >
 
-<h2 align="center">A Chilean dev who loves technology, blockchain and nature... I'm focused on Full Stack Development working mainly with React and NodeJS. 
+<h3 align="center">
+Certified Full-Stack Developer with 3 years of hands-on experience in JavaScript, TypeScript, React, React Native, and Node.js with NestJS framework. Skilled in crafting efficient solutions and user-friendly interfaces. Proficient with AWS, GCP, Docker, SQL/NoSQL, and CI/CD pipelines. Adaptable, team-oriented, and always eager to learn. Passionate about game development, currently honing skills in C# and Unity.
   
 </br>
 </br>
-I'm currently learning and practicing with NextJS.
+Now diving into NestJS.
 </br>
 </br>
 
-Open to new job offers.
-</h2>
+Open to new opportunities.
+</h3>
 
 </div>
 
@@ -26,11 +27,11 @@ Open to new job offers.
 
 <h3>📫 How to reach me</h3>
 
-- CV / RESUME: <a href="https://landrews.dev/Docs/CV_Lucas_Andrews_ENG.pdf" target="blank" rel="noreferrer">**Lucas_Andrews_CV_ENG.pdf**<a/>
+**- <a href="https://drive.google.com/file/d/1851_4Ha9ajEb5IaIZainWt4R8KSQ6wxO/view?usp=sharing" target="_blank" rel="noreferrer">CV / RESUME</a>**
 
-- Portfolio: **https://landrews.dev/**
+**- <a href="https://landrews.dev/" target="_blank" rel="noreferrer">Portfolio</a>**
 
-- Email: **andrews852@gmail.com**
+**- andrews852@gmail.com**
   
 </br>
 </br>
